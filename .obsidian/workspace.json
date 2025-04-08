@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Variance.md",
+                "file": "Kleisli.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Variance"
-            }
-          },
-          {
-            "id": "7ea645c7b2d759ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture Boundaries.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Architecture Boundaries"
+              "title": "Kleisli"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,15 +180,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ea645c7b2d759ab",
+  "active": "72fc2b1e98a055bc",
   "lastOpenFiles": [
+    "Reader Monad Pattern.md",
+    "Reader.md",
+    "Reader.md",
     "Kleisli.md",
-    "Vim Commands.md",
     "Variance.md",
     "SOLID Principles.md",
-    "Reader Monad Pattern.md",
-    "Reader pattern.md",
+    "Useful Typelevel Projects.md",
     "Architecture Boundaries.md",
+    "Vim Commands.md",
+    "Reader pattern.md",
     "Welcome.md"
   ]
 }
